@@ -1,6 +1,7 @@
+**現在はこのリポジトリは運用を停止し、shinonome organization 内の リポジトリで開発を行っています。**
+
 # PG-DSコース課題開発リポジトリ
 PlayGround/データサイエンスコース で用いるための課題を改善、開発していくリポジトリです。  
-
 このリポジトリの課題の雛形は[Introduction to Deep Learning: Chainer Tutorials](https://tutorials.chainer.org/)です。  
 
 ## LICENSE
